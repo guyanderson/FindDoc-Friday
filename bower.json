@@ -6,7 +6,7 @@
     "guy <luckythelich@hotmail.com>"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/guyanderson/FindDoc-Friday",
   "ignore": [
     "**/.*",
     "node_modules",

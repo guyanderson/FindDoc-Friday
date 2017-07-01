@@ -31,5 +31,13 @@
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyanderson/FindDoc-Friday.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guyanderson/FindDoc-Friday/issues"
+  },
+  "homepage": "https://github.com/guyanderson/FindDoc-Friday#readme",
   "description": ""
 }
