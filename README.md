@@ -15,6 +15,7 @@ _Simple program that only takes one user entry, a symptom. Program will then int
 | Searching for a new symptom will clear previous search results. | keyboard: chipped nail/ Click: Submit | Clear bloody nose results, display chipped nail results. |
 | If search will be limited to 20 results. | see above | No more than 20 doctors will be displayed. |
 | Program will interface with the "Better Doctor API" to get a list of real doctors. |  see above | see above |
+| No results found | See above | "Your search returned no results." |
 | Free version of app only displays Doc pic and name. Paid version will give the user useful information like a contact number (to be developed later.)| none | none |
 
 ## Setup/Installation Requirements
@@ -38,7 +39,8 @@ _Simple program that only takes one user entry, a symptom. Program will then int
 
 ## Known Bugs
 
-_Not all doctor pictures are displayed. This appears to be a incomplete database issue. Amateurs._
+* _Not all doctor pictures are displayed. This appears to be a incomplete database issue. Amateurs._
+* _If no symptom is entered before clicking search, results will still be returned._
 
 ## Technologies Used
 
